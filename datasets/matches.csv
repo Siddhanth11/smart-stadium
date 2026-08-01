@@ -1,0 +1,11 @@
+match_id,date,time,team1,team2,stadium,status
+1,2026-07-15,19:30,India,Brazil,Smart Stadium,Upcoming
+2,2026-07-16,18:00,Germany,Argentina,Smart Stadium,Upcoming
+3,2026-07-17,20:00,France,Spain,Smart Stadium,Upcoming
+4,2026-07-18,17:30,England,Portugal,Smart Stadium,Upcoming
+5,2026-07-19,19:00,Japan,USA,Smart Stadium,Upcoming
+6,2026-07-20,20:30,Mexico,Italy,Smart Stadium,Upcoming
+7,2026-07-21,18:30,Netherlands,Belgium,Smart Stadium,Upcoming
+8,2026-07-22,19:30,Croatia,Uruguay,Smart Stadium,Upcoming
+9,2026-07-23,20:00,Morocco,Senegal,Smart Stadium,Upcoming
+10,2026-07-24,18:00,Korea,Australia,Smart Stadium,Upcoming

@@ -1,0 +1,11 @@
+match_id,team1,team2,tickets_sold,weather,predicted_attendance
+1,India,Brazil,72000,Sunny,70000
+2,Germany,Argentina,68000,Cloudy,65000
+3,France,Spain,75000,Sunny,73000
+4,England,Portugal,69000,Rainy,63000
+5,Japan,USA,60000,Sunny,59000
+6,Mexico,Italy,71000,Cloudy,69000
+7,Netherlands,Belgium,65000,Sunny,64000
+8,Croatia,Uruguay,62000,Rainy,58000
+9,Morocco,Senegal,58000,Cloudy,56000
+10,Korea,Australia,54000,Sunny,53000

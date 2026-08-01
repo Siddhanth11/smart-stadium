@@ -1,0 +1,11 @@
+zone,capacity,current_people,crowd_level
+Gate A,1000,850,High
+Gate B,1000,350,Medium
+Gate C,1000,150,Low
+Gate D,1000,920,Critical
+Food Court,500,420,High
+Parking,2000,1600,High
+VIP Lounge,300,90,Low
+Fan Zone,1500,1100,Medium
+Medical Center,200,40,Low
+Exit Gate,1200,980,Critical

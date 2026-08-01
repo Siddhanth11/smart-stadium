@@ -1,0 +1,11 @@
+seat_id,section,category,price,available
+A01,North,VIP,5000,Yes
+A02,North,VIP,5000,No
+B10,East,Premium,3500,Yes
+B11,East,Premium,3500,Yes
+C15,West,Standard,2000,Yes
+C16,West,Standard,2000,No
+D20,South,Budget,1000,Yes
+D21,South,Budget,1000,Yes
+E30,Center,Premium,4000,Yes
+F40,Center,VIP,6000,No
